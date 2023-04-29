@@ -1,0 +1,9 @@
+¿Qué vende un coche? ¶
+Eres un analista en Crankshaft List. Cientos de anuncios gratuitos de vehículos se publican en tu sitio web cada día. Necesitas estudiar los datos recopilados durante los últimos años y determinar qué factores influyen en el precio de un vehículo.
+Objetivos:
+
+Estudiar los siguientes parámetros: precio, años del vehículo cuando se colocó el anuncio, millaje, número de cilindros y condición
+Comparar gráficamente usando histogramas de los datos sin excluir los valores atípicos vs los datos excluyendo los valores atípicos
+Determinar cuándo se eliminan rápidamente los anuncios y cuándo son publicados por un tiempo anormalmente largo a través del uso de la mediana y media en el histograma.
+Analizar el número de anuncios y el precio medio para cada tipo de vehículo
+Determinar que factores impactan más sobre el precio de un vehículo a través de gráficos de diagramas de caja y dispersión.
