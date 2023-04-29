@@ -1,0 +1,14 @@
+La cadena de gimasios: Model Fitness, se enfrenta al problema en la pérdida de sus clientes cuando después de un mes ya no regresan o cuando ya no renuevan sus meses de membresía. Por lo general si un un cliente se une al gimnasio, viene por un tiempo pero después deja de venir lo más probable es que ya no regrese.
+
+Con el propósito de evitar las cancelaciones y pérdidas de los clientes, elaboraremos una estrategia de retención basada en el análisis de los datos de los perfiles de los clientes.
+
+Los objetivos son:
+
+Aprender a predecir la probabilidad de pérdida (para el próximo mes) para cada cliente
+Elaborar retratos de usuarios típicos: selecciona los grupos más destacados y describe sus características principales
+Analizar los factores que más impactan la pérdida
+Sacar conclusiones básicas y elaborar recomendaciones para mejorar la atención al cliente:
+
+Identificar a los grupos objetivo
+Sugerir medidas para reducir la rotación
+Describir cualquier otro patrón que observes con respecto a la interacción con los clientes
