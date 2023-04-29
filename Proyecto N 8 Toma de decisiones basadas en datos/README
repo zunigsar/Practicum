@@ -1,0 +1,4 @@
+Para la tienda en linea hemos encontrado junto con el departamento de marketing una lista de hipótesis que pueden ayudar a aumentar los ingresos. El objetivo de este proyecto es priorizar este listado de hipótesis, lanzar un test A/B y analizar los resultados.
+
+Disponemos de 3 datasets que contienen la siguiente informacion: listado de las hipotesis a evaluar y priorizar, la data de las ordenes de compra de los usuarios como tambien el registro de las visitas al sitio web de la tienda.
+
